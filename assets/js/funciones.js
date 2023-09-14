@@ -49,4 +49,4 @@ function saludar4( nombre) {//cuando se ejecuta esta funcion empieza linea por l
     console.log('soy un codigo que esta despues del return');
 }
 
-const retornoDeSaludar = saludar4
+console.log('Hola jeje');
